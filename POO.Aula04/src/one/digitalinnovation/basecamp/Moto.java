@@ -1,5 +1,5 @@
 package one.digitalinnovation.basecamp;
 
-public class Moto {
+public class Moto extends Veiculo {
 
 }
